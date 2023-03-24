@@ -209,6 +209,9 @@ video {
 }
 .bootcamp-section .head-title h1 {
   font-size: 56px;
+  color: #000;
+}
+.bootcamp-section .head-title p {
   color: #fe018a;
 }
 .bootcamp-section ul {
@@ -239,6 +242,9 @@ video {
   background: #fbfbfb;
   padding: 6px 10px;
   border-radius: 10px;
+}
+.bootcamp-section ul li strong {
+  color: #000;
 }
 
 /* END bootcamp-section */
@@ -277,11 +283,14 @@ video {
   font-size: 20px;
   margin-top: 20px;
   margin-bottom: 30px;
-  min-height: 240px;
+  /* min-height: 240px; */
 }
 .testimonials-box h2 {
   font-size: 20px;
   font-family: Inter-Bold;
+}
+.border-sec {
+  margin-bottom: 12px;
 }
 /* sortable-wrap */
 .sortable-wrap {
@@ -400,12 +409,12 @@ video {
 }
 .footer-section ul li a {
   color: #fff;
-  font-size: 15px;
+  font-size: 16px;
   font-family: Lato-Bold;
 }
 .footer-section p {
   margin-bottom: 0px;
-  font-size: 15px;
+  font-size: 16px;
   text-align: end;
 }
 /*  Responsive*/
