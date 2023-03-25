@@ -372,7 +372,7 @@ video {
 }
 /* subscribe-section */
 .subscribe-section {
-  padding: 70px 0px;
+  padding: 80px 0px;
   background-image: url(..///img/subscribe.webp);
 }
 .subscribe-dec {
@@ -386,6 +386,7 @@ video {
   font-size: 90px;
   text-transform: uppercase;
   font-family: Inter-Bold;
+  line-height: 100px;
 }
 .subscribe-dec h1 strong {
   color: #fe018a;
@@ -393,9 +394,15 @@ video {
 .subscribe-dec p {
   font-size: 20px;
   margin-top: 40px;
+  margin-bottom: 30px;
 }
 .subscribe-dec p span {
   color: #fe018a;
+  background: #fff;
+  padding: 5px;
+  margin-right: 5px;
+  font-size: 17px;
+  border-radius: 5px;
 }
 .subscribe-dec a {
   color: rgb(255, 255, 255);
