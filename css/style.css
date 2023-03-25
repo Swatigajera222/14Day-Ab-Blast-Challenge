@@ -213,6 +213,11 @@ video {
 }
 .bootcamp-section .head-title p {
   color: #fe018a;
+  text-align: center;
+  font-size: 56px;
+  font-family: Inter-Bold;
+
+  margin-top: 20px;
 }
 .bootcamp-section ul {
   list-style-image: url(..//img/check-solid.svg);
